@@ -1,0 +1,17 @@
+{
+  "name": "lib-dsa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/amnhh/lib-dsa.git",
+  "author": "amnhh <2570079254@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "jest": "^27.2.1",
+    "ts-jest": "^27.0.5",
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.4.3",
+    "webpack": "^5.53.0",
+    "webpack-cli": "^4.8.0"
+  }
+}
